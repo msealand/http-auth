@@ -26,8 +26,8 @@
 	},
 	"dependencies": {
 		"node-uuid": "1.2.0",
-		"htpasswd": "1.1.0",
-		"htdigest": "1.0.7"
+		"htpasswd": "https://github.com/msealand/htpasswd/tarball/master",
+		"htdigest": "https://github.com/msealand/htdigest/tarball/master"
 	},
 	"devDependencies": {
 		"nodeunit": "0.7.4",
